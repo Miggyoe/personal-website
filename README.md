@@ -1,10 +1,10 @@
-# Project Title: Resume 
+# Project Title: Personal Website 
 
 # Student Name: Ethan Miguel P. Patio
 
 # Course and Section: BSIT-3C
 
-# Project Description: My simple resume project using HTML and CSS. It indroduces myself.
+# Project Description: My simple personal website project using HTML and CSS. It indroduces myself.
 
 # Features of the Website: Personal Profile - Contact Information - Key Skills - Education - Career Summary - Skills and Qualification - Achievements - Interest
 
